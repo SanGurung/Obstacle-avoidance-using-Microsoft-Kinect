@@ -1,0 +1,33 @@
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\bin\Debug\OARC-V2.exe
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\bin\Debug\OARC-V2.pdb
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\App.g.cs
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2_MarkupCompile.cache
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.g.resources
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARC_V2.Properties.Resources.resources
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.csproj.GenerateResource.Cache
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.exe
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.pdb
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.csproj.ResolveComReference.cache
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARCsystem.baml
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\OARCsystem.g.cs
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\mainWindow.baml
+C:\Users\sanxio\Desktop\Dissertation\OARC-V2\OARC-V2\obj\x86\Debug\mainWindow.g.cs
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.csproj.ResolveComReference.cache
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.exe
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.pdb
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\bin\Debug\OARC-V2.exe
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\bin\Debug\OARC-V2.pdb
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.csprojResolveAssemblyReference.cache
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\mainWindow.baml
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARCsystem.baml
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\mainWindow.g.cs
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARCsystem.g.cs
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\App.g.cs
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2_MarkupCompile.cache
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.g.resources
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC_V2.Properties.Resources.resources
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2.csproj.GenerateResource.Cache
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\bin\Debug\OARC-V2.exe.config
+C:\Users\sanxio\Desktop\Dissertation\Final Works\OARC-V2\OARC-V2\obj\x86\Debug\OARC-V2_Content.g.cs
